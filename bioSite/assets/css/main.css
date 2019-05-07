@@ -1,20 +1,41 @@
 body {
 	background-color: lightblue;
   }
-  
+	
+	/* Made h1 center and uppercase*/
   h1 {
-	color: white;
-	text-align: center;
-  }
-  
+		text-align: center;
+		text-transform: uppercase;
+		color: rgb(34, 53, 105);
+	}
+	
+	
+	/* Added font family and size*/
   p {
 	font-family: verdana;
 	font-size: 20px;
+	text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
   }
-
+ /* Adding margin to both left and right with width 30%*/
   .center {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 30%;
-  }
+	width: 50%;
+	height: 30%;
+	}
+	
+	/* URL links are inlince*/
+	li {
+		display: inline;
+	}
+
+	img {
+		border: 1px solid #ddd;
+		border-radius: 8px;
+		padding: 5px;
+		width: 150px;
+	}
+	
