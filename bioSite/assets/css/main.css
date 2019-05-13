@@ -15,10 +15,11 @@ body {
 	font-family: verdana;
 	font-size: 20px;
 	text-indent: 50px;
-  text-align: justify;
-  letter-spacing: 3px;
+        text-align: justify;
+         letter-spacing: 3px;
   }
- /* Adding margin to both left and right with width 30%*/
+
+        /* Adding margin to both left and right with width 30%*/
   .center {
 	display: block;
 	margin-left: auto;
