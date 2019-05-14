@@ -1,6 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
 	background-color: lightblue;
-  }
+	margin: 0;
+	font-family: Arial;
+	
+	}
 	
 	/* Made h1 center and uppercase*/
   h1 {
@@ -15,10 +22,11 @@ body {
 	font-family: verdana;
 	font-size: 20px;
 	text-indent: 50px;
-  text-align: justify;
-  letter-spacing: 3px;
+        text-align: justify;
+         letter-spacing: 3px;
   }
- /* Adding margin to both left and right with width 30%*/
+
+        /* Adding margin to both left and right with width 30%*/
   .center {
 	display: block;
 	margin-left: auto;
@@ -37,18 +45,6 @@ body {
 		border-radius: 8px;
 		padding: 5px;
 		width: 150px;
-	}
-	
-
-
-
-	* {
-		box-sizing: border-box;
-	}
-	
-	body {
-		margin: 0;
-		font-family: Arial;
 	}
 	
 	/* The grid: Four equal columns that floats next to each other */
