@@ -47,7 +47,7 @@ body {
     font-family: "Gentium Book Basic", Georgia, serif;
     font-size: 2em;
     color: lightblue;
-    
+
 }
 
 .masthead-heading {
@@ -283,7 +283,7 @@ body, html {
   background-image: url("https://github.com/thiprattanavilay/thiprattanavilay.github.io/blob/master/images/02.jpg?raw=true");
 
   /* Full height */
-  height: 75%; 
+  height: 75%;
 
   /* Center and scale the image nicely */
   background-position: center;
@@ -307,6 +307,13 @@ body
 #form_container input[type='email'],
 #form_container textarea
 {
-	background: rgba(255,255,255,0.2);	
+	background: rgba(255,255,255,0.2);
 }
 
+.card,
+.card-body
+{
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
