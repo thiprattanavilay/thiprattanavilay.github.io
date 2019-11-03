@@ -1,0 +1,24 @@
+{
+"book":[
+  {
+  "isbn": "978-3-16-148410-0",
+  "name": "International Standard Book Number",
+  "price": "47.99",
+  "publishers": [
+      {
+          "code": "13",
+          "name": "MeMe Rattanavilay",
+          "address": "2127 W. Coast Ave"
+      }
+  ],
+  "authors":[
+      {
+          "first_name": "Thip",
+          "last_name": "Rattanavilay",
+          "phone": "678-620-8110",
+          "email": "trattanavilay@my365.bellevue.edu"
+      }
+  ]
+}
+]
+}
