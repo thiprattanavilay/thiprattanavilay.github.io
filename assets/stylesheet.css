@@ -183,6 +183,7 @@ a {
 /* Services Item */
 .services {
   background:#F0F0F0;
+  padding: auto;
 }
 
 .services-item {
